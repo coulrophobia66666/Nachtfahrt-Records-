@@ -7,7 +7,8 @@
 - [ ] Zahlungsabwicklung wählen
 - [ ] Rechtstexte aufsetzen und prüfen lassen
 - [ ] Nutzungsrechte am gelieferten Song klären
-- [ ] erste drei Demo-Songs als Hörproben produzieren (Easy kümmert sich)
+- [x] Text + Suno-Prompt für "Natriumlicht" und "Kein Aufzug" fertig (siehe releases/)
+- [ ] Audio-Produktion der Demo-Songs (EZY kümmert sich, dann Embed auf Website nachziehen)
 - [ ] Formular-Backend für echten Foto-/Sprachnachricht-Upload einrichten (z. B. Formspree/Netlify Forms), sobald ein Anbieter feststeht
 
 ## Kanäle

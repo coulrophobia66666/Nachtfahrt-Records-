@@ -1,0 +1,18 @@
+SUNO-PROMPT — NATRIUMLICHT
+
+Style of Music:
+Dark cinematic German rap, 132 BPM, moody halftime trap with distant cinematic
+strings, sodium-vapor nightdrive atmosphere, deep sub bass, muted vinyl-style
+hi-hats, faint train/rail ambience under the hook, male vocal "easy", raspy
+melancholic baritone delivery, half-sung hook, introspective street narrative,
+rainy Leipzig night mood, rough analog texture, no auto-tune excess, sparse
+mixing with room to breathe.
+
+Struktur-Tags (mit Lyrics aus lyrics.txt eins zu eins übernehmen):
+[Intro] [Verse 1] [Hook] [Verse 2] [Hook] [Bridge] [Outro]
+
+Hinweise für die Suno-Session:
+- Künstlername im Prompt/Persona-Feld klein schreiben: easy
+- Intro und Outro eher gesprochen/halb gesungen, kein volles Beat-Drop sofort
+- Beat-Switch nicht nötig, gleichmäßiges Tempo über den ganzen Track
+- Referenzgefühl: nasse Straße, Natriumdampflicht, S-Bahn spät nachts

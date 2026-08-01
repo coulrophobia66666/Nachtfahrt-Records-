@@ -1,0 +1,17 @@
+SUNO-PROMPT — KEIN AUFZUG
+
+Style of Music:
+Aggressive German drill/trap, 140 BPM halftime, hard-hitting 808 bass, sparse
+dark piano stabs, sharp rolling hi-hats, minimal but heavy production, male
+vocal "easy", raw aggressive baritone delivery, sung-rap hook with gang-vocal
+undertone, staccato flow, gritty urban grind anthem, no orchestral strings,
+tight and dry mix.
+
+Struktur-Tags (mit Lyrics aus lyrics.txt eins zu eins übernehmen):
+[Intro] [Verse 1] [Hook] [Verse 2] [Hook] [Bridge] [Outro]
+
+Hinweise für die Suno-Session:
+- Künstlername im Prompt/Persona-Feld klein schreiben: easy
+- Intro hart und minimal einsteigen (nur Bass/Snare), kein Cinematic-Layer
+- Hook soll stampfend/anthemisch wirken, nicht melodisch weich
+- Gegenstück zu "Natriumlicht": schneller, aggressiver, tagsüber/grind statt Nacht/Melancholie
