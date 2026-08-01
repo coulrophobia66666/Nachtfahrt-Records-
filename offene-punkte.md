@@ -1,7 +1,8 @@
 # Offene Punkte
 
 ## Auftragssongs
-- [ ] Paketpreise festlegen
+- [x] Paketpreise festlegen (Basic 89 €, Standard 149 €, Premium 249 €)
+- [ ] Lieferzeiten je Paket festlegen
 - [ ] Zahlungsabwicklung wählen
 - [ ] Rechtstexte aufsetzen und prüfen lassen
 - [ ] Nutzungsrechte am gelieferten Song klären
