@@ -1,7 +1,7 @@
 # Nachtfahrt Records – Hausregeln
 
 ## Künstler
-- Künstlername: **Easy** – nie "Eze". In Suno-Prompts klein: `easy`.
+- Künstlername: **EZY** – nie "Eze". Ausnahme: In Suno-Prompts klein `easy` schreiben, wegen der Aussprache.
 - Label: **Nachtfahrt Records**
 - Standort: **Leipzig**. Wo es sitzt einbauen (Eisenbahnstraße, Grünau, Ost-Kiez,
   Plattenbau, S-Bahn-Unterführung). Nicht als Deko erzwingen.

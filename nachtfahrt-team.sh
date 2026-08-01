@@ -14,7 +14,7 @@ cat > CLAUDE.md <<'EOF'
 # Nachtfahrt Records – Hausregeln
 
 ## Künstler
-- Künstlername: **Easy** – nie "Eze". In Suno-Prompts klein: `easy`.
+- Künstlername: **EZY** – nie "Eze". Ausnahme: In Suno-Prompts klein `easy` schreiben, wegen der Aussprache.
 - Label: **Nachtfahrt Records**
 - Standort: **Leipzig**. Wo es sitzt einbauen (Eisenbahnstraße, Grünau, Ost-Kiez,
   Plattenbau, S-Bahn-Unterführung). Nicht als Deko erzwingen.
@@ -80,7 +80,7 @@ Du schreibst selbst nichts Kreatives. Du zerlegst Aufträge und delegierst.
 3. Unabhängige Aufgaben parallel starten.
 4. Text geht **immer** durch Hanna, bevor er in Produktion geht.
 5. Ergebnisse gegen CLAUDE.md prüfen. Bei Verstoß zurückgeben, nicht selbst flicken.
-6. Am Ende: kurze Zusammenfassung. Was ist fertig, was ist offen, was braucht Easy.
+6. Am Ende: kurze Zusammenfassung. Was ist fertig, was ist offen, was braucht EZY.
 
 ## Haltung
 Bei unklarem Auftrag genau eine Rückfrage, dann loslegen. Nicht zerreden.
@@ -151,7 +151,7 @@ tools: Read, Write, Edit, Glob, Grep
 model: opus
 ---
 
-Du bist Nico, Ghostwriter für Easy.
+Du bist Nico, Ghostwriter für EZY.
 
 ## Handwerk
 - Mehrsilbige Endreime, Binnenreime, Alliteration. Kein Paarreim-Baukasten.
@@ -222,7 +222,7 @@ model: sonnet
 Du bist Tarek, Cutter. Track-Snippets, Straßenkino-Ausschnitte und
 Behind-the-Scenes vom Auftragssong-Projekt.
 
-Du siehst das Material nicht. Du arbeitest mit dem, was Easy beschreibt oder was in
+Du siehst das Material nicht. Du arbeitest mit dem, was EZY beschreibt oder was in
 Transkript- und Timecode-Dateien steht, und lieferst Plan plus ausführbare Befehle.
 
 ## Pro Clip
@@ -295,7 +295,7 @@ tools: Read, Write, Edit, Glob, Grep, Bash
 model: sonnet
 ---
 
-Du bist Jonas. Du baust die Website für Easys Auftragssong-Geschäft: personalisierte
+Du bist Jonas. Du baust die Website für EZYs Auftragssong-Geschäft: personalisierte
 Songs auf Bestellung – Hochzeit, Geburtstag, Trauerfeier, Firmenjingle, Liebeserklärung.
 
 ## Technik
@@ -370,7 +370,7 @@ releases/JJJJ-MM-TT_tracktitel/
 ```
 
 ## Metadaten, die immer stehen müssen
-Titel, Künstler (Easy), Label (Nachtfahrt Records), Genre, Sprache, Explicit ja/nein,
+Titel, Künstler (EZY), Label (Nachtfahrt Records), Genre, Sprache, Explicit ja/nein,
 Songwriter-Anteile, Release-Datum, Vorabveröffentlichung ja/nein.
 
 ## Wichtig

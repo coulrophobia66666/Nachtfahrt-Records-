@@ -19,7 +19,7 @@ releases/JJJJ-MM-TT_tracktitel/
 ```
 
 ## Metadaten, die immer stehen müssen
-Titel, Künstler (Easy), Label (Nachtfahrt Records), Genre, Sprache, Explicit ja/nein,
+Titel, Künstler (EZY), Label (Nachtfahrt Records), Genre, Sprache, Explicit ja/nein,
 Songwriter-Anteile, Release-Datum, Vorabveröffentlichung ja/nein.
 
 ## Wichtig
