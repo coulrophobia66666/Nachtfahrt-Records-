@@ -162,42 +162,104 @@
       <div class="pkg-card reveal">
         <div class="pkg-name">Basic</div>
         <div class="pkg-price">89 € <span>einmalig</span></div>
-        <div class="pkg-time">Lieferzeit folgt</div>
+        <div class="pkg-time">7 Tage Lieferzeit</div>
         <ul>
           <li>Ein individueller Song</li>
           <li>Textentwurf nach deinem Briefing</li>
           <li>Eine Korrekturschleife</li>
         </ul>
-        <a href="#kontakt" class="btn btn-outline">Anfragen</a>
+        <a href="#anfragen" class="btn btn-outline" data-paket="Basic">Anfragen</a>
       </div>
       <div class="pkg-card featured reveal">
         <div class="pkg-name">Standard</div>
         <div class="pkg-price">149 € <span>einmalig</span></div>
-        <div class="pkg-time">Lieferzeit folgt</div>
+        <div class="pkg-time">5 Tage Lieferzeit</div>
         <ul>
           <li>Ein individueller Song</li>
           <li>Ausführliches Briefing-Gespräch</li>
           <li>Zwei Korrekturschleifen</li>
           <li>Gemastertes Endergebnis</li>
         </ul>
-        <a href="#kontakt" class="btn btn-primary">Anfragen</a>
+        <a href="#anfragen" class="btn btn-primary" data-paket="Standard">Anfragen</a>
       </div>
       <div class="pkg-card reveal">
         <div class="pkg-name">Premium</div>
         <div class="pkg-price">249 € <span>einmalig</span></div>
-        <div class="pkg-time">Lieferzeit folgt</div>
+        <div class="pkg-time">3 Tage Lieferzeit · Prio</div>
         <ul>
           <li>Ein individueller Song</li>
           <li>Persönliches Gespräch mit EZY</li>
           <li>Unbegrenzte Korrekturschleifen</li>
           <li>Cover-Artwork inklusive</li>
         </ul>
-        <a href="#kontakt" class="btn btn-outline">Anfragen</a>
+        <a href="#anfragen" class="btn btn-outline" data-paket="Premium">Anfragen</a>
       </div>
     </div>
     <p style="color:var(--muted-2); font-size:13px; margin-top:24px;">
-      Lieferzeiten werden ergänzt, sobald sie feststehen.
+      Lieferzeit zählt ab vollständigem Briefing, nicht ab Bestelldatum.
     </p>
+  </div>
+</section>
+
+<!-- ============ BESTELLFORMULAR ============ -->
+<section id="anfragen">
+  <div class="container">
+    <div class="reveal">
+      <div class="eyebrow">Bestellung</div>
+      <h2 class="section-title">Song anfragen</h2>
+      <p class="section-lead">
+        Kurz ausfüllen, EZY meldet sich per Mail zurück. Fotos oder eine Sprachnachricht
+        einfach direkt an die Antwortmail anhängen.
+      </p>
+    </div>
+
+    <form class="booking-form reveal" id="booking-form">
+      <div class="form-grid">
+        <label>
+          Dein Name
+          <input type="text" name="name" required>
+        </label>
+        <label>
+          Deine E-Mail
+          <input type="email" name="email" required>
+        </label>
+        <label>
+          Anlass
+          <select name="anlass" required>
+            <option value="">Bitte wählen</option>
+            <option>Hochzeit</option>
+            <option>Geburtstag</option>
+            <option>Trauerfeier</option>
+            <option>Firmenjingle</option>
+            <option>Liebeserklärung</option>
+            <option>Sonstiges</option>
+          </select>
+        </label>
+        <label>
+          Paket
+          <select name="paket" id="paket-select" required>
+            <option value="">Bitte wählen</option>
+            <option>Basic</option>
+            <option>Standard</option>
+            <option>Premium</option>
+          </select>
+        </label>
+        <label>
+          Stilwunsch
+          <input type="text" name="stil" placeholder="z. B. Deutschrap, ruhig, akustisch">
+        </label>
+        <label>
+          Wunschtermin
+          <input type="date" name="termin">
+        </label>
+      </div>
+      <label class="full">
+        Die Geschichte dahinter
+        <textarea name="geschichte" rows="4" placeholder="Worum geht's, wer soll vorkommen, was ist die Stimmung?" required></textarea>
+      </label>
+      <button type="submit" class="btn btn-primary">Anfrage senden</button>
+      <p class="form-note">Öffnet dein Mail-Programm mit vorausgefüllter Nachricht an info@nachtfahrt-records.de.</p>
+    </form>
   </div>
 </section>
 

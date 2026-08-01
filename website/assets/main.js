@@ -40,4 +40,34 @@ document.addEventListener('DOMContentLoaded', () => {
   }, { threshold: 0.15 });
 
   revealEls.forEach((el) => observer.observe(el));
+
+  const paketSelect = document.getElementById('paket-select');
+  if (paketSelect) {
+    document.querySelectorAll('.pkg-card a[data-paket]').forEach((link) => {
+      link.addEventListener('click', () => {
+        paketSelect.value = link.dataset.paket;
+      });
+    });
+  }
+
+  const bookingForm = document.getElementById('booking-form');
+  if (bookingForm) {
+    bookingForm.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const data = new FormData(bookingForm);
+      const subject = `Auftragssong-Anfrage: ${data.get('anlass') || 'Anlass offen'} (${data.get('paket') || 'Paket offen'})`;
+      const body = [
+        `Name: ${data.get('name')}`,
+        `E-Mail: ${data.get('email')}`,
+        `Anlass: ${data.get('anlass')}`,
+        `Paket: ${data.get('paket')}`,
+        `Stilwunsch: ${data.get('stil') || '-'}`,
+        `Wunschtermin: ${data.get('termin') || '-'}`,
+        '',
+        'Geschichte:',
+        data.get('geschichte'),
+      ].join('\n');
+      window.location.href = `mailto:info@nachtfahrt-records.de?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    });
+  }
 });
