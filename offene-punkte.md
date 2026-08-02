@@ -9,7 +9,7 @@
 - [ ] Nutzungsrechte am gelieferten Song klären
 - [x] Text + Suno-Prompt für "Natriumlicht" und "Kein Aufzug" fertig (siehe releases/)
 - [x] Audio-Produktion "Natriumlicht" und "Kein Aufzug" fertig (Masters archiviert unter releases/, aktuell nicht auf der Website featured)
-- [ ] Spotify-Link aus EZYs bestehendem Portfolio für die Musik-Section eintragen (Website nutzt jetzt Portfolio-Track statt der zwei neuen Songs)
+- [x] Spotify-Album aus EZYs Portfolio in die Musik-Section eingebettet
 - [ ] Vertrieb wählen (Feiyr/DistroKid) und Streaming-Links in die Platform-Pills eintragen
 - [ ] Formular-Backend für echten Foto-/Sprachnachricht-Upload einrichten (z. B. Formspree/Netlify Forms), sobald ein Anbieter feststeht
 
