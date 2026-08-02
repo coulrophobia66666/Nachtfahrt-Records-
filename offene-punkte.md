@@ -8,7 +8,8 @@
 - [ ] Rechtstexte aufsetzen und prüfen lassen
 - [ ] Nutzungsrechte am gelieferten Song klären
 - [x] Text + Suno-Prompt für "Natriumlicht" und "Kein Aufzug" fertig (siehe releases/)
-- [ ] Audio-Produktion der Demo-Songs (EZY kümmert sich, dann Embed auf Website nachziehen)
+- [x] Audio-Produktion "Natriumlicht" und "Kein Aufzug" fertig, als Hörprobe live auf der Website
+- [ ] Vertrieb wählen (Feiyr/DistroKid) und Streaming-Links in die Platform-Pills eintragen
 - [ ] Formular-Backend für echten Foto-/Sprachnachricht-Upload einrichten (z. B. Formspree/Netlify Forms), sobald ein Anbieter feststeht
 
 ## Kanäle
