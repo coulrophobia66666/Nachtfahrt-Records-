@@ -19,4 +19,5 @@
 
 ## Website
 - [x] GitHub-Actions-Workflow für Pages-Deploy angelegt (`.github/workflows/deploy-website.yml`)
-- [ ] Einmalig in den Repo-Einstellungen: Settings → Pages → Source auf "GitHub Actions" stellen (kann nicht per Tool gesetzt werden)
+- [x] Settings → Pages → Source auf "GitHub Actions" gestellt — Seite ist live unter
+      https://coulrophobia66666.github.io/Nachtfahrt-Records-/ (Spotify-Embed bestätigt funktionsfähig)
