@@ -6,7 +6,7 @@
 - [x] Bestellformular auf der Website (mailto-basiert, kein Backend)
 - [ ] Zahlungsabwicklung wählen
 - [x] Rechtstexte-Gerüst aufgesetzt: Impressum, Datenschutz, AGB, Widerruf (website/*.html)
-- [x] Kontaktdaten eingetragen: Nachtfahrt Records, 04107 Leipzig, ezy.offiacially@gmail.com,
+- [x] Kontaktdaten eingetragen: Nachtfahrt Records, 04107 Leipzig, Ezy.Officially@gmail.com,
       01639829301 — Straße/Hausnummer fehlt noch (EZY liefert nach), dann Anwalt-Check
 - [x] Nutzungsrechte am gelieferten Song geklärt — Entwurf in AGB Ziffer 6 (einfaches
       Nutzungsrecht für privaten Gebrauch, Urheberrecht bleibt bei Nachtfahrt Records)

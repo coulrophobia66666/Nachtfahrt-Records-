@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'Geschichte:',
         data.get('geschichte'),
       ].join('\n');
-      window.location.href = `mailto:ezy.offiacially@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+      window.location.href = `mailto:Ezy.Officially@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
     });
   }
 });
