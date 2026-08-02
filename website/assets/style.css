@@ -432,6 +432,23 @@ section.tight { padding: 80px 0; }
   font-size: 13px;
   color: var(--muted-2);
 }
+.booking-form label.consent {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--muted);
+  margin-bottom: 22px;
+}
+.booking-form label.consent input[type="checkbox"] {
+  margin-top: 3px;
+  width: 16px;
+  height: 16px;
+  accent-color: var(--accent);
+  flex-shrink: 0;
+}
+.booking-form label.consent a { color: var(--accent-2); text-decoration: underline; }
 
 /* ---------- About ---------- */
 .about-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; }

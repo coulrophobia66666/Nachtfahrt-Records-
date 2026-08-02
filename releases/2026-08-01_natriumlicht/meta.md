@@ -10,4 +10,5 @@
 - Release-Datum: offen
 - Vorabveröffentlichung: nein
 - Dauer: 5:18
+- KI-Kennzeichnung: KI-generiert (Text: Nico/EZY, Gesang + Instrumental: Suno) — siehe ki-kennzeichnung.md
 - Status: Audio fertig (Hörprobe live auf Website), Vertrieb/Streaming offen
