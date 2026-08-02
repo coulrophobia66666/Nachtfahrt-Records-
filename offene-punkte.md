@@ -5,8 +5,9 @@
 - [x] Lieferzeiten je Paket festlegen (Basic 7 Tage, Standard 5 Tage, Premium 3 Tage/Prio)
 - [x] Bestellformular auf der Website (mailto-basiert, kein Backend)
 - [ ] Zahlungsabwicklung wählen
-- [x] Rechtstexte-Gerüst aufgesetzt: Impressum, Datenschutz, AGB, Widerruf (website/*.html) —
-      Anwalt muss noch gegenprüfen, echte Firmendaten fehlen noch (Platzhalter)
+- [x] Rechtstexte-Gerüst aufgesetzt: Impressum, Datenschutz, AGB, Widerruf (website/*.html)
+- [x] Kontaktdaten eingetragen: Nachtfahrt Records, 04107 Leipzig, ezy.offiacially@gmail.com,
+      01639829301 — Straße/Hausnummer fehlt noch (EZY liefert nach), dann Anwalt-Check
 - [x] Nutzungsrechte am gelieferten Song geklärt — Entwurf in AGB Ziffer 6 (einfaches
       Nutzungsrecht für privaten Gebrauch, Urheberrecht bleibt bei Nachtfahrt Records)
 - [x] Text + Suno-Prompt für "Natriumlicht" und "Kein Aufzug" fertig (siehe releases/)
