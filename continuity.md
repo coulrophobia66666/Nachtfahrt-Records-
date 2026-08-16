@@ -1,9 +1,9 @@
-# Continuity – Straßenkino
+# Continuity – Ghettotagebuch
 
-## Yusuf-Saga (6 Folgen, abgeschlossen)
+## Staffel 1: Yusuf (6 Folgen, abgeschlossen)
 - Schauplatz: Eisenbahnstraße / Ost-Kiez, Leipzig
 
-## Felix-Saga / Grünau-Tapes (10 Folgen)
+## Staffel 2: Felix / Grünau-Tapes (10 Folgen)
 - Schauplatz: Grünau, Plattenbau
 - Felix: 16, Gymnasiast, Sprayer, Zeichner
 - Schwester: 10, eigene Probleme in der Schule

@@ -17,7 +17,7 @@
 - [ ] Formular-Backend für echten Foto-/Sprachnachricht-Upload einrichten (z. B. Formspree/Netlify Forms), sobald ein Anbieter feststeht
 
 ## Kanäle
-- [ ] entscheiden: Straßenkino-Kanal monetarisieren oder reiner Trichter zum Streaming
+- [ ] entscheiden: Ghettotagebuch-Kanal monetarisieren oder reiner Trichter zum Streaming
 - [x] Kennzeichnungspflichten für KI-Musik geprüft — siehe `ki-kennzeichnung.md`
       (EU AI Act Art. 50 seit 2.8.2026 in Kraft, plus Spotify/YouTube-eigene Regeln)
 

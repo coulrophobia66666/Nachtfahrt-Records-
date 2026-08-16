@@ -38,7 +38,7 @@ brandneu, im Zweifel großzügig kennzeichnen und bei Unsicherheit einen Anwalt 
    „KI-Kennzeichnung: KI-generiert" ergänzen.
 2. Beim Vertrieb (Feiyr/DistroKid, siehe offene-punkte.md) das jeweilige AI-Disclosure-Feld aktiv
    ausfüllen, nicht überspringen.
-3. Bei YouTube-Uploads (Straßenkino, Shorts) den „KI-generiert/synthetisch"-Schalter im
+3. Bei YouTube-Uploads (Ghettotagebuch, Shorts) den „KI-generiert/synthetisch"-Schalter im
    Upload-Dialog setzen.
 4. Vor jedem Release in der Bruno-Checkliste einen Punkt „Kennzeichnungspflicht geprüft (Datum)"
    ergänzen.

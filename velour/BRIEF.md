@@ -1,7 +1,7 @@
 # Velour — Kanal-Brief
 
 YouTube-Kanal für Bedroom-R&B/Sexy-Trap. Nachtfahrt-Records-Imprint, aber visuell und
-im Ton bewusst getrennt vom EZY-Straßenkino-Look. Ausgangslage: Kanal heißt bereits
+im Ton bewusst getrennt vom EZY-Ghettotagebuch-Look. Ausgangslage: Kanal heißt bereits
 "Velour", 1 Video, ~100 Views — Name bleibt, keine Umbenennung nötig.
 
 ## Positionierung
