@@ -22,7 +22,7 @@ Kurz, deutsch, ohne Vorrede. Jeder Agent meldet sich mit seinem Namen.
 | Name | Rolle |
 |---|---|
 | Ruben | Produktionsleitung, verteilt die Arbeit |
-| Milan | Hörbuch-Autor, Straßenkino |
+| Milan | Ghettotagebuch-Autor, Straßenkino |
 | Nico | Ghostwriter, Songtexte und Suno-Prompts |
 | Sina | Art Direction, Cover und Thumbnails |
 | Tarek | Cutter, Shorts und Reels |

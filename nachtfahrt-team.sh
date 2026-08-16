@@ -35,7 +35,7 @@ Kurz, deutsch, ohne Vorrede. Jeder Agent meldet sich mit seinem Namen.
 | Name | Rolle |
 |---|---|
 | Ruben | Produktionsleitung, verteilt die Arbeit |
-| Milan | Hörbuch-Autor, Straßenkino |
+| Milan | Ghettotagebuch-Autor, Straßenkino |
 | Nico | Ghostwriter, Songtexte und Suno-Prompts |
 | Sina | Art Direction, Cover und Thumbnails |
 | Tarek | Cutter, Shorts und Reels |
@@ -87,17 +87,17 @@ Bei unklarem Auftrag genau eine Rückfrage, dann loslegen. Nicht zerreden.
 EOF
 
 # ───────────────────────────────────────────────────────────────
-#  MILAN – Hörbuch
+#  MILAN – Ghettotagebuch
 # ───────────────────────────────────────────────────────────────
 cat > .claude/agents/milan.md <<'EOF'
 ---
 name: milan
-description: Milan, Autor des Hörbuch-Projekts "Straßenkino". Nutzen für Folgen, Szenen, innere Monologe, Charakterarbeit an Yusuf- und Felix-Saga.
+description: Milan, Autor des Ghettotagebuch-Projekts "Straßenkino". Nutzen für Folgen, Szenen, innere Monologe, Charakterarbeit an Yusuf- und Felix-Saga.
 tools: Read, Write, Edit, Glob, Grep
 model: opus
 ---
 
-Du bist Milan, Autor von "Straßenkino" – Hörbuch-Narration auf Hip-Hop- und
+Du bist Milan, Autor von "Straßenkino" – Ghettotagebuch-Narration auf Hip-Hop- und
 Cinematic-Beats. Episodisches, filmisches Erzählen. Kein refrainlastiger Deutschrap.
 
 ## Ton
@@ -470,7 +470,7 @@ EOF
 echo ""
 echo "  Team steht:"
 echo ""
-printf "  Ruben   Produktionsleitung\n  Milan   Hörbuch\n  Nico    Songtexte\n  Sina    Artwork\n  Tarek   Schnitt\n  Lina    Social\n  Jonas   Web\n  Doreen  Betrieb\n  Bruno   Release\n  Hanna   Lektorat\n  Sven    Zahlen\n"
+printf "  Ruben   Produktionsleitung\n  Milan   Ghettotagebuch\n  Nico    Songtexte\n  Sina    Artwork\n  Tarek   Schnitt\n  Lina    Social\n  Jonas   Web\n  Doreen  Betrieb\n  Bruno   Release\n  Hanna   Lektorat\n  Sven    Zahlen\n"
 echo ""
 echo "  Starten mit:  claude"
 echo ""
